@@ -1,0 +1,6 @@
+{
+  "name": "TerraBreath AI - Near-Real-Time EO Flood Intelligence & Multi-Source Risk Engine",
+  "description": "Scientific Near-Real-Time Earth Observation flood detection and risk intelligence engine integrating Copernicus Sentinel-1/2, Open-Meteo live weather, NASA GIBS imagery, Copernicus DEM, and explainable AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
